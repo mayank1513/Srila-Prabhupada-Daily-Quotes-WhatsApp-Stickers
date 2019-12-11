@@ -14,11 +14,11 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 > ## Gist
 > We collect and process data only through facebook sdk integration for sole purpose of displaying ads and supporting features for social media integration.
-
+>
 > We do not operate any server or process your data in any way.
-
+>
 > Some data is sent to Facebook and third parties via facebook sdk for displaying ads. No data is collected by us in any way other than facebook sdk which is necessary for us to run ad compaigns.
-
+>
 > [more details on Facebook Data Policy](https://www.facebook.com/policy.php)
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect (anonymous information collected solely thorugh facebook sdk) is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
