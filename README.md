@@ -4,8 +4,6 @@ Thank you very much for using our App.
 Download to crop photos for Facebook, Instagram, Pinterest, Youtube Thumbnail as well as circular crop and custom aspect ratio.
 [play store](https://play.google.com/store/apps/details?id=com.mayank.crop)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mayank1513-21&marketplace=amazon&region=IN&placement=B07N2MTSMC&asins=B07N2MTSMC&linkId=f610c8c29d89b468112feb064bab0ef8&show_border=true&link_opens_in_new_window=true"></iframe>
-
 ## Privacy Policy
 
 Your Privacy is very important to us.
@@ -13,6 +11,11 @@ Your Privacy is very important to us.
 [Mayank Kumar Chaudhari](https://mayank1513.github.io/) built the Photo Crop app as an Ad Supported app. This SERVICE is provided by Mayank Kumar Chaudhari at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+<figure class="video_container">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=mayank1513-21&marketplace=amazon&region=IN&placement=B07N2MTSMC&asins=B07N2MTSMC&linkId=f610c8c29d89b468112feb064bab0ef8&show_border=true&link_opens_in_new_window=true"></iframe>
+</figure>
+
 
 > ## Gist
 > We collect and process data only through facebook sdk integration for sole purpose of displaying ads and supporting features for social media integration.
