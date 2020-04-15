@@ -2,7 +2,7 @@
 Thank you very much for using our App.
 
 Download to crop photos for Facebook, Instagram, Pinterest, Youtube Thumbnail as well as circular crop and custom aspect ratio.
-[play store](https://play.google.com/store/apps/details?id=com.mayank.crop)
+[play store](https://play.google.com/store/apps/details?id=c.m.wa.sticker.SrilaPrabhupadaQuotes.free)
 
 ## Privacy Policy
 
