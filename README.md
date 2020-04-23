@@ -3,6 +3,8 @@ Thank you very much for using our App.
 
 This app provides Srila Prabhupada Daily Quotes as WhatsApp Sticker Pack as well as images.
 [play store](https://play.google.com/store/apps/details?id=c.m.wa.sticker.SrilaPrabhupadaQuotes.adsFree)
+
+
 [play store - free version](https://play.google.com/store/apps/details?id=c.m.wa.sticker.SrilaPrabhupadaQuotes.free)
 
 ## Privacy Policy
