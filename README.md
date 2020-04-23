@@ -1,8 +1,9 @@
 
 Thank you very much for using our App.
 
-Download to crop photos for Facebook, Instagram, Pinterest, Youtube Thumbnail as well as circular crop and custom aspect ratio.
-[play store](https://play.google.com/store/apps/details?id=c.m.wa.sticker.SrilaPrabhupadaQuotes.free)
+This app provides Srila Prabhupada Daily Quotes as WhatsApp Sticker Pack as well as images.
+[play store](https://play.google.com/store/apps/details?id=c.m.wa.sticker.SrilaPrabhupadaQuotes.adsFree)
+[play store - free version](https://play.google.com/store/apps/details?id=c.m.wa.sticker.SrilaPrabhupadaQuotes.free)
 
 ## Privacy Policy
 
@@ -19,7 +20,13 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 
 > ## Gist
-> We collect and process data only through facebook sdk integration for sole purpose of displaying ads and supporting features for social media integration.
+> For Paid Version
+> We do not collect or process any of your data, except the data necessary for billing and purchase of app, which is done solely through google playstore.
+> For free version We collect and process data only through facebook sdk integration for sole purpose of displaying ads and supporting features for social media integration.
+>
+> We also provide in-app updates and some of your data may be processed through google billing libraries to ensure secure and reliable transaction and service. This data also is not stored by us in any of our servers, except from some data on google cloud records solely for varifying your purchase and for no other use.
+>
+> All trasactions are not performed by us, but by Google on our behalf, thus you get secure and reliable experience.
 >
 > We do not operate any server or process your data in any way.
 >
